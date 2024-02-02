@@ -47,7 +47,14 @@ div{
     border-bottom-left-radius: 30px;
     margin-left: 38cm;
 }
-
+.caja7{
+    background: #17FCDC;
+    width: 15%;
+    border: 5px ridge #FCE517;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    margin-left: 38cm;
+}
 .imagen{
     width: 150px;
     height: 138px;
