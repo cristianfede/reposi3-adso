@@ -5,4 +5,3 @@
 - Creer en uno mismo.
 - Tener buenos habitos.
 - Autoconocerce.
-- Auto confianza.
